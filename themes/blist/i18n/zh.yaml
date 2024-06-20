@@ -1,0 +1,72 @@
+# Content
+- id: postedOnDate
+  translation: "文章发表于{{ . }}"
+- id: lastModified
+  translation: "(最后修改于{{ . }})"
+- id: translationsLabel
+  translation: "其他预演: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "点击阅读更多"
+- id: morePosts
+  translation: "点击阅读更多文章"
+- id: olderPosts
+  translation: "更早发表的文章"
+- id: newerPosts
+  translation: "最新发布的文章"
+- id: previousPost
+  translation: "上一篇"
+- id: nextPost
+  translation: "下一篇"
+- id: readTime
+  translation: "分钟"
+- id: words
+  translation: "字"
+
+
+# 404 page
+- id: pageNotFound
+  translation: "阿欧，本页面不存在，再看看？ (404 错误)"
+
+# Footer
+- id: poweredBy # Accepts HTML
+  translation: '本站采用<a href="https://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a>开源博客程序建站 &nbsp;&bull;&nbsp; 感谢主题原作者<a href="https://github.com/apvarun/blist-hugo-theme">Blist theme for Hugo</a>'
+
+# Navigation
+- id: toggleNavigation
+  translation: "折叠导航栏"
+- id: languageSwitcherLabel
+  translation: "语言"
+- id: gcseLabelShort
+  translation: "搜索"
+- id: gcseLabelLong
+  translation: "搜索 {{ .Site.Title }}"
+- id: gcseClose
+  translation: "关闭"
+
+# Staticman
+- id: noComment
+  translation: "暂无评论"
+- id: oneComment
+  translation: "评论"
+- id: moreComment
+  translation: "评论"
+- id: useMarkdown
+  translation: "你可以使用Markdown语法"
+- id: yourName
+  translation: "你的名字"
+- id: yourEmail
+  translation: "你的邮箱地址"
+- id: yourWebsite
+  translation: "你的网站地址"
+
+# Delayed Disqus
+- id: show
+  translation: "显示"
+- id: comments
+  translation: "评论" 
+
+# Related posts
+- id: seeAlso
+  translation: "同时还可查看"
